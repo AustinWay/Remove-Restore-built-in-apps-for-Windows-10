@@ -1,4 +1,9 @@
-# Remove-Restore-built-in-apps-for-Windows-10
+# Owner: Hans K.	
+# Article: How to remove/restore built-in apps for Windows 10
+# Group: Rice University
+# Created: 2017-05-31 16:56 CDT	
+# Updated: 2018-11-14 10:44 CDT
+# Link: https://kb.rice.edu/page.php?id=73705
 
 # https://kb.rice.edu/page.php?id=73705
 
